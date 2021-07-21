@@ -17,4 +17,4 @@ Otherwise, return {status: "OPEN", change: [...]}, with the change due in coins 
 
 ### Test Cases
 
-Test cases are in the temp.txt file
+Test cases are in the [test.txt](https://github.com/sush1998/Cash-register/blob/main/test.txt) file
