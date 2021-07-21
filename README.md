@@ -1,6 +1,6 @@
 # Cash-register
 
-[FREE-CODE-CAMP](https://www.freecodecamp.org/sushantmahalle) JS Algorithms and Data Structure Certificate last project solution.
+[FREE-CODE-CAMP](https://www.freecodecamp.org/sushantmahalle) JS Algorithms and Data Structure Certificate last project(Cash Register) solution.
 
 ### Problem Statement
 
