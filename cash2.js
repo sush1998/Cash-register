@@ -35,7 +35,7 @@ function check(price, cash, cid)
                change=change.toFixed(2)
                console.log("Change reduced to ... "+change)
                filterCid[i][0][1]=(filterCid[i][0][1] - filterCid[i][1]).toFixed(2)
-              // filterCid[i][0][1]=filterCid[i][0][1].toFixed(2)
+               filterCid[i][0][1]=filterCid[i][0][1].toFixed(2)
                console.log(filterCid[i][0][0]+" reduced to  : "+filterCid[i][0][1])
                chan(0.14)
             }
